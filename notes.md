@@ -2,40 +2,10 @@
 
 These are 'raw' notes from the workshop ....
 
-### SUMMARY AFTER MEETING 1 AND WHOLE GROUP DISCUSSION
-
-Discussion focused on 
-* Needs from workflow engines in the future
-* Why we haven't adopted a common workflow system
-* Standardising across data formats and model input output formats
-* Benchmarking models against multiple datasets
-* Model intercomparisons
-* Red flag systems for when data and model outputs are differing from expected behaviours
-* Adding semantics to model and data inputs and outputs and probabilities
-* Metadata standards that will work for ecological forecasting
-
-Reproducibility - would motivate adoption; esp. if demanded by journals, funding, reviewers; 
-Review Paper topics
-* state of reproducibiilty
-* best practices data life cycle
-
 ### NOTES MADE DURING MEETING 1
  * Topics
-   * Metadata/data standardization and interoperability
-     * how to define and share probabilistic results?
-     * easier to describe 'data' than model output
-   * rOpenSci Getting data into R: what do workflows need?
-     * How can we standardize data formats?
-     * EML (ecological metadata language), NeXML (http://www.nexml.org/)
-     * estimates of uncertainty / data quality
-     * uniform API for multiple sources of data - we're working on this, so far we have 
-       * taxonomy (from e.g., NCBI, ITIS, etc.)
-       * spatial data (from e.g. GBIF, BISON, iNaturalist, etc.)
-     * EML package: can automatically push data and get do
-       * Push to KNB/DataONE/FigShare repositories
-       * R package eml: https://github.com/ropensci/EML
-     * Would it help to write out netcdf files from our NOAA R pkg wrapper to use in other software? And for spatial occurrence data from spocc/rgbif/etc?
-     * Data transformations we could provide? e.g, Interpolation of climate data from NOAA
+
+ 
    * Kepler modules as frontend to R code
    * Automated provenance tracking w/in R (e.g. analytic web)
    * Parallelization of code; access to different scheduler engines; evolving landscape
@@ -43,18 +13,10 @@ Review Paper topics
      * helps w/ scalability. 
    * Uncertainty, multi-scale coupling
      * how to couple independent codes; model-to-model coupling; transformation
-   * Why one workflow system over another; 
-     * what are common and uncommon requirements for workflow engines
-     * What do we want in a wf engine; 
-     * See comparison paper:
-       * Yu, Jia, and Rajkumar Buyya. "A taxonomy of scientific workflow systems for grid computing." ACM Sigmod Record 34.3 (2005): 44-49.http://arxiv.org/pdf/cs/0503025.pdf
+
        * 
-     * 2007 workshop: taverna, triana, kepler. Covered this  question - decided that interoperability was more trouble than it is worth; compatability done by wraping one in another.
-   * Invitro modeling framework (a workflow?) - model interoperability
-     * modularity - componentize complexity
-     * Ptolemy: Models of computation
-       * See: Lee, E. A., and A. Sangiovanni-Vincentelli. 1998. A framework for comparing models of computation. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 17:1217–1229. doi:10.1109/43.736561     
-   * The problem of the computational overhead in using workflows
+    
+
    * Developing worksflow models for data-constrained models of systems.
    * Benefit from having a large enough project to work with
      * e.g bioinformatics -> bioKepler
@@ -63,7 +25,7 @@ Review Paper topics
    * Finite  state machine as model to model communication
    * UVCDat http://uvcdat.llnl.gov/
    * Bob Cook: MstMIP / model intercomparison
-   * MODEL INTERCOMPARISONS <- one of the key areas of future application
+ 
    * Anticipate key workflow/software needs for 5-10 years time
    * Workflows as a means to get the community to work together
    * If ecological forecasting is to become a reality - we need workflows to deliver that
@@ -222,33 +184,3 @@ Outline/Topics
 
 
 
-
-
-References
------------------
-
-CF Standards - NetCDF metadata standards for data discovery: https://geo-ide.noaa.gov/wiki/index.php?title=NetCDF_Attribute_Convention_for_Dataset_Discovery
-
-Mandal, N., E. Deelman, G. Mehta, M.-H. Su, K. Vahi, and M. D. Rey. 2007. Integrating Existing Scientific Workflow Systems : The Kepler / Pegasus Example. Information Sciences:21–28.
-
-Wang, J., I. Altintas, C. Berkley, L. Gilbert, and M. B. Jones. 2008. A High-Level Distributed Execution Framework for Scientific Workflows. 2008 IEEE Fourth International Conference on eScience:634–639.
-
-Wang, J., I. Altintas, P. R. Hosseini, D. Barseghian, D. Crawl, C. Berkley, and M. B. Jones. 2009. Accelerating Parameter Sweep Workflows by Utilizing Ad-hoc Network Computing Resources: An Ecological Example. 2009 Congress on Services - I:267–274.
-  
-Allen Hierarchy: Perspectives for Ecological Complexity 
-
-http://blogs.msdn.com/b/martinca/archive/2009/11/02/microsoft-computational-science-studio.aspx
-
-Coming Soon to a Lab Near You: Drag-and-Drop Virtual Worlds                   
-
-   * Robert F. Service
-   * Science 11 February 2011:  669-671. [DOI:10.1126/science.331.6018.669] 
-
-An example of a similar "guidelines" paper; outreach rather than findings:  
-Borer, E., E. Seabloom, M. B. Jones, and M. Schildhauer. 2009. Some Simple Guidelines for Effective Data Management. Bulletin of the Ecological Society of America:205–214.  http://dx.doi.org/10.1890/0012-9623-90.2.205
-
-An example of using global change to illustrate changes needed in data management:  
-Wolkovich, E. M., J. Regetz, and M. I. O’Connor. 2012. Advances in global change research require open science by individual researchers. Global Change Biology:1–9. doi:10.1111/j.1365-2486.2012.02693.x
-
-
-  
