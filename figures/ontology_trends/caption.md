@@ -1,1 +1,1 @@
-Replace this text with your caption
+Interest in Ontology and Semantics within CS have been declining, and ontology seems almost exclusively outside the US. Why? Is it not useful / practical?
