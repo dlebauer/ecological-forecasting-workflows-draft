@@ -47,6 +47,5 @@ Can we describe model components semantically to provide plug-n-play within wf s
 * Madin, J., S. Bowers, M. Schildhauer, S. Krivov, D. Pennington, and F. Villa. 2007. An ontology for describing and synthesizing ecological observation data. Ecological Informatics 2:279–296.
 * Madin, J. S., S. Bowers, M. P. Schildhauer, and M. B. Jones. 2008. Advancing ecological research with ontologies. Trends in Ecology & Evolution 23:159–68
 
-Fundamental Problems with Ontologies? (reasons for [declining interest in Google Trends](http://www.google.com/trends/explore#q=%2Fm%2F05kvn%2C%20%2Fm%2F076h6&cmpt=q))?
+Fundamental Problems with Ontologies? (reasons for [declining interest in Google Trends](http://www.google.com/trends/explore#cat=0-174-1227&q=%2Fm%2F05kvn%2C%20%2Fm%2F076h6&cmpt=q))?
 
-<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=/m/05kvn,+/m/076h6&cmpt=q&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
