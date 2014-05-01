@@ -1,3 +1,7 @@
+**TODO** Parse into sections above
+
+These are 'raw' notes from the workshop ....
+
 ### SUMMARY AFTER MEETING 1 AND WHOLE GROUP DISCUSSION
 
 Discussion focused on 
