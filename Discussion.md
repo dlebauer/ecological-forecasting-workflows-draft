@@ -12,3 +12,12 @@
 * Metadata standards that will work for ecological forecasting
 * state of reproducibiilty
 * best practices data life cycle
+
+
+### Open Questions
+
+* Metadata/data standardization and interoperability
+  * how to define and share probabilistic results?
+  * easier to describe 'data' than model output
+  * 
+  
