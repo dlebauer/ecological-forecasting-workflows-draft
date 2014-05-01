@@ -19,4 +19,4 @@ Taking lead in identifying commonnly used conventions
 
  * importance to MIPs 
  * how is this related to Global carbon forecasting (see CMIP6 article in EOS) \cite{Meehl_2014}
- * MsTMIP, AgMIP, ISI-MIP
+ * MsTMIP\cite{Huntzinger_2013}, AgMIP \cite{Rosenzweig_2013}, ISI-MIP \cite{Warszawski_2014}
