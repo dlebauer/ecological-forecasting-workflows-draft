@@ -7,6 +7,8 @@ these were compiled during workshop, not currently cited, can be deleted after t
 References
 -----------------
 
+TODO: Each of these came up; should be reviewed (and cited) for context
+
 Berkley, C., S. Bowers, M. B. Jones, B. Ludaescher, M. Schildhauer, and J. Tao. 2005. Incorporating Semantics in Scientific Workflow Authoring. Pages 75–78 in J. Frew, editor. Proceedings of the 17th International Conference on Scientific and Statistical Database Management. Santa Barbara, CA.
 
 Madin, J., S. Bowers, M. Schildhauer, S. Krivov, D. Pennington, and F. Villa. 2007. An ontology for describing and synthesizing ecological observation data. Ecological Informatics 2:279–296.
