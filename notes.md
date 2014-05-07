@@ -1,27 +1,15 @@
 **TODO** Parse into sections above
 
-These are 'raw' notes from the workshop ....
-
 ### NOTES MADE DURING MEETING 1
  * Topics
 
- 
-   * Kepler modules as frontend to R code
-   * Automated provenance tracking w/in R (e.g. analytic web)
-   * Parallelization of code; access to different scheduler engines; evolving landscape
-   * Workflow branches based on needs of node (e.g. I/O, flops, ram)
-     * helps w/ scalability. 
-   * Uncertainty, multi-scale coupling
-     * how to couple independent codes; model-to-model coupling; transformation
-
-       * 
-    
-
-   * Developing worksflow models for data-constrained models of systems.
    * Benefit from having a large enough project to work with
      * e.g bioinformatics -> bioKepler
      * openTopography.org
-   * R as a workflow itself - this is essentially folks using knitr with markdown or latex - which has very little structure other than separating text from code blocks
+    
+Statistics
+   * Developing worksflow models for data-constrained models of systems.
+
    * Finite  state machine as model to model communication
    * UVCDat http://uvcdat.llnl.gov/
    * Bob Cook: MstMIP / model intercomparison
@@ -53,25 +41,14 @@ Identifying red flags in data observations  and model predictions
    * provenance tracking -> captured as reproducible research objects
    * adopting best practices w/in community
    * business model to sustain software; combining big, heterogeneous data, 
-   * Lack of willing in community to adopt modularity in multicomponent models of systems
-   * Managing data streams <- big data
-   * Managing large volumes of data < big data
-   * Big data IS an issue in certaiin areas
-   * What are the workflow needs for the next 5-10 years
-     * learnn from past efforts and lessons
-     * Look towards future demands
-   * Data integration and model coupling
-     * almost all existing systems don't deal in semantics
-     * Try to add semantics to modelling frameworks to make it easier to build systems that understand more of the data / information compatabilities specific to the domain.
+   * references: Madin 2007, Madin 2008, Berkeley 2005
+
 
 Day 2 Discussion
 -------------------------
  * Why have so many groups decided to create their own workflow rather than adapt an existing system?
    * Are ecological demands on wf systems special?
  * Can we describe model components semantically to provide plug-n-play within wf systems?  
-   * Berkley, C., S. Bowers, M. B. Jones, B. Ludaescher, M. Schildhauer, and J. Tao. 2005. Incorporating Semantics in Scientific Workflow Authoring. Pages 75–78 in J. Frew, editor. Proceedings of the 17th International Conference on Scientific and Statistical Database Management. Santa Barbara, CA.
-   * Madin, J., S. Bowers, M. Schildhauer, S. Krivov, D. Pennington, and F. Villa. 2007. An ontology for describing and synthesizing ecological observation data. Ecological Informatics 2:279–296.
-   * Madin, J. S., S. Bowers, M. P. Schildhauer, and M. B. Jones. 2008. Advancing ecological research with ontologies. Trends in Ecology & Evolution 23:159–68.
  * What are the key barriers to plug-n-play ecological forecasting?
    * Getting data providers online to not only provide read, but also write access through open APIs
    * Provide mechanism to describe a desired standard data product
@@ -80,15 +57,6 @@ Day 2 Discussion
    * Lack of well-specified interfaces to model components; 
 Standard grammars for defining data-data and data-model and model-model interfaces
 
-"Best practices in ecological computing" 
-
- * in R: Commit to S4 classes instead of S3, all languages: well-specified APIs, contractual committment
- * continuous integration e.g. Travis-CI (or is this too high level?)
- * testing (too high level?)
- * 
-
-
-What do we need to do to up our game, computationally, in producing actionable predictions of ecosystems - data input standards, workflows, probabilities, cloud
 
 Proposal of what to work on
 
