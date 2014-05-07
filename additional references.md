@@ -32,11 +32,4 @@ http://blogs.msdn.com/b/martinca/archive/2009/11/02/microsoft-computational-scie
 
 
 
-An example of a similar "guidelines" paper; outreach rather than findings:  
-Borer, E., E. Seabloom, M. B. Jones, and M. Schildhauer. 2009. Some Simple Guidelines for Effective Data Management. Bulletin of the Ecological Society of America:205–214.  http://dx.doi.org/10.1890/0012-9623-90.2.205
-
-An example of using global change to illustrate changes needed in data management:  
-Wolkovich, E. M., J. Regetz, and M. I. O’Connor. 2012. Advances in global change research require open science by individual researchers. Global Change Biology:1–9. doi:10.1111/j.1365-2486.2012.02693.x
-
-
   
