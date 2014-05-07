@@ -7,4 +7,5 @@ examples.md
 Discussion.md
 Discussion1.md
 notes.md
+Best Practices.md
 additional references.md
