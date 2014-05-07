@@ -58,12 +58,7 @@ Day 2 Discussion
 Standard grammars for defining data-data and data-model and model-model interfaces
 
 
-Proposal of what to work on
 
-1. High profile perspective on the needs to get towards reproducibility in the prediction of complex multicomponent systems - for which ecological systems are a prime example but Earth System Models are another - and how advances in workflow technology are needed to achieve that - potentially with a section on case study examples of where we really need this reproducibility in order to keep advancing. Tailed by 5-10 year goal for the development of workflow technology to meet the needs of ecological / earth system research.
-2. Discuss further how the specifics of conducting multicomponent multi-dataset inference based research raises new challenges for developing workflows.
-3. Discuss the challenges of managing multi-component modelling with workflows 
-4. A semantics for decribing workflows? Needed? Helpful?
 
 
 Publishing derived data sets. 
@@ -80,15 +75,10 @@ Paper Outline
 ---------------------
 
 
-Titles:
 
-* "Reproducibility in ecological and environmental modelling: whether and why scientific workflows, and where next?"
- * "Software practices that promote interoperability {and reproducibility} for ecological forecasting"
 
 * rhetorical approach framework
  * name and define practice
  * what do you want to achieve and how to get there
  * pros and cons
  * examples
-
-Outline/Topics
