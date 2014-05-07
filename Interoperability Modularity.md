@@ -10,6 +10,9 @@ What is or can be done for improving reproducibility and interoperability in spe
 
 ## Software Interoperability / Modularity
 
+* Favor interoperability over re-writing / translating (except where this is useful and not redundant)
+* Model coupling --> currently a Hurculean task
+
 ## Data Interoperability / Modularity 
 
 \cite{Borer_2009} provide guidelines  <!--An example of a similar "guidelines" paper; outreach rather than findings:  -->
