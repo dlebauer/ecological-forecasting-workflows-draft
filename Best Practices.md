@@ -1,4 +1,8 @@
-notes from a group brainstorm / wishlist about what we wish everyone else did.
+# Best Practices in Ecological Computing
+
+...intentional play on "Best Practices in Scientific Computing \cite{Wilson_2014}, which we should start by discussing.
+
+These are notes from a group brainstorm / wishlist about what we wish everyone else did. On the one hand, perhaps a valuable consensus and good information. On the other hand, a big scope, could be a separate paper, perhaps it is. 
 
  * Intro general background of sw best practices (e.g., White paper), plus acknowledge these are well-established software engineering practices
  * Discussion of desiridata: Reproducible, Traceable, Usable, Comparable, {Reusable}
