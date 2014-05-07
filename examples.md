@@ -38,4 +38,9 @@ TODO: Write Examples
 
 Model intercomparisons are one of the key areas of future application
 
+### Model Coupling
 
+* what we currently do: CLM + DayCent; BioCro + DayCent
+* A better approach
+ * CCF1
+ * SUMO \cite{van2011multi}
