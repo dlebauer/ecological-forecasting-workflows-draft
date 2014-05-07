@@ -1,6 +1,4 @@
-## Introduction
-
-### costs and benefits of workflows for enabling reproducibility and interoperability
+## costs and benefits of workflows for enabling reproducibility and interoperability
 
 **Pros** 
 
