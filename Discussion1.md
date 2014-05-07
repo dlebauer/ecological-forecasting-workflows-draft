@@ -19,6 +19,7 @@ _I think we decided to stay away from this, mostly, but it is worth bringing up 
 
 
 We hope to build our community of Ecological Software Developers, Users, and Tinkerers
+
 * Advice to specific groups, (maybe the groups are not a good idea.)
  * To the professors, we would say ... software deserves the same respect as your lab equipment, should be tested and engineered well.
  * To grad students ... get on board. Software is a technique.
