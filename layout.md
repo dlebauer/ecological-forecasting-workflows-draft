@@ -1,6 +1,7 @@
 abstract.md
 Background.md
 Introduction.md
+Interoperability Modularity.md
 Section On Pros and Cons.md
 figures/ontology_trends/ontology_trends.png
 examples.md
