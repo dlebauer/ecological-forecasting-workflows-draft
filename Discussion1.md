@@ -11,7 +11,7 @@ What will / do integration of heterogeneous _codes_ as well as _data_ look like?
 
 * MIPS are parallel workflows (e.g. differen models of the same)
 * What about sequential workflows (of complex simulation models) of, e.g. met dynamical downscaling -> ecosystem -> economics models? New opportunities for cross-domain optimization and propagation of uncertainty (e.g. dynamically coupled codes are easier to link as stocahstic equations).
-* Synchronized models (e.g. where models overlap in some but not all outputs, e.g. 1) SUMO (climate models). This can be done, an alternative to model 'coupling', e.g. with CLM, 
+* Synchronized models (e.g. where models overlap in some but not all outputs, e.g. 1) SUMO \cite{van2011multi} (climate models). This can be done, an alternative to model 'coupling', e.g. with CLM, 
 
 ### "Best Practices in Ecological Computing"
 
