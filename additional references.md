@@ -2,10 +2,12 @@
 
 these were compiled during workshop, not currently cited, can be deleted after they are used (or rejected)
 
-
-
 References
 -----------------
+
+
+\cite{Service_2011}
+Service, R.F. Coming Soon to a Lab Near You: Drag-and-Drop Virtual Worlds Science 11 February 2011:  669-671. [DOI:10.1126/science.331.6018.669] 
 
 TODO: Each of these came up; should be reviewed (and cited) for context
 
@@ -28,10 +30,7 @@ Allen Hierarchy: Perspectives for Ecological Complexity
 
 http://blogs.msdn.com/b/martinca/archive/2009/11/02/microsoft-computational-science-studio.aspx
 
-Coming Soon to a Lab Near You: Drag-and-Drop Virtual Worlds                   
 
-   * Robert F. Service
-   * Science 11 February 2011:  669-671. [DOI:10.1126/science.331.6018.669] 
 
 An example of a similar "guidelines" paper; outreach rather than findings:  
 Borer, E., E. Seabloom, M. B. Jones, and M. Schildhauer. 2009. Some Simple Guidelines for Effective Data Management. Bulletin of the Ecological Society of America:205–214.  http://dx.doi.org/10.1890/0012-9623-90.2.205
