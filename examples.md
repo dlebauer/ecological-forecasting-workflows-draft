@@ -2,8 +2,16 @@
 
 TODO: Write Examples
 
-* MsTMIP -> widely used format by terrestrial ecosystem modelers
-
+* Data Conventions
+ * MsTMIP -> widely used format by terrestrial ecosystem modelers
+ * DataOne: EML describes data as it is, rather than requiring a standard example
+ * NEON: has opportunity to provide data "templates" for common types of data collected by ecologists 
+  * under development these, not clear that they should set 'the' standard
+  * a good place for community feedback on this
+  * tradeoff between generality and specificity
+ * Aaron Ellison: the first three columns should always be x,y,t (z if relevant); on one hand, of course this isn't normalized; on the other hand, this is a straightforward rule.
+* Coding conventions
+* Code use/ reuse
 
 ### rOpenSci
  * rnoaa -> MsTMIP format
