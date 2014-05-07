@@ -30,20 +30,32 @@ Review Paper topics
   * Model component interfaces
  * What do we want in a wf engine; 
 
-### Taking lead in identifying commonnly used conventions 
+
+### Interoperability / Modularity
+
+   * Data integration and model coupling
+     * almost all existing systems don't deal in semantics
+     * Try to add semantics to modelling frameworks to make it easier to build systems that understand more of the data / information compatabilities specific to the domain.
+
+#### To this end, we can take the opportunity to state some widely used conventions
+
 
  * importance to MIPs 
  * how is this related to Global carbon forecasting (see CMIP6 article in EOS) \cite{Meehl_2014}
  * MsTMIP\cite{Huntzinger_2013}, AgMIP \cite{Rosenzweig_2013}, ISI-MIP \cite{Warszawski_2014}
 \cite{Yu_2005}\cite{Yu_2005}
 
-### Ontologies
+* We are not suggesting standards. Repeat. These are not standards. This was an important point. 
+
+#### Ontologies / Semantics
+
+   * Data integration and model coupling
+     * almost all existing systems don't deal in semantics
+     * Try to add semantics to modelling frameworks to make it easier to build systems that understand more of the data / information compatabilities specific to the domain.
+
 
 Can we describe model components semantically to provide plug-n-play within wf systems?
+Berkeley et al 2005, Madin et al 2007, Madin et al, 2008
 
-* Berkley, C., S. Bowers, M. B. Jones, B. Ludaescher, M. Schildhauer, and J. Tao. 2005. Incorporating Semantics in Scientific Workflow Authoring. Pages 75–78 in J. Frew, editor. Proceedings of the 17th International Conference on Scientific and Statistical Database Management. Santa Barbara, CA.
-* Madin, J., S. Bowers, M. Schildhauer, S. Krivov, D. Pennington, and F. Villa. 2007. An ontology for describing and synthesizing ecological observation data. Ecological Informatics 2:279–296.
-* Madin, J. S., S. Bowers, M. P. Schildhauer, and M. B. Jones. 2008. Advancing ecological research with ontologies. Trends in Ecology & Evolution 23:159–68
-
-Fundamental Problems with Ontologies? (reasons for [declining interest in Google Trends](http://www.google.com/trends/explore#cat=0-174-1227&q=%2Fm%2F05kvn%2C%20%2Fm%2F076h6&cmpt=q))?
+Is there anything fundamentally deficient with the semantics approach? Ontologies? (reasons for [declining interest in Google Trends](http://www.google.com/trends/explore#cat=0-174-1227&q=%2Fm%2F05kvn%2C%20%2Fm%2F076h6&cmpt=q))?
 
