@@ -1,4 +1,6 @@
-**TODO** Parse into sections above
+## Unparsed Raw Meeting Notes
+
+**TODO** Parse into sections above (about 1/2 way done)
 
 ### NOTES MADE DURING MEETING 1
  * Topics
