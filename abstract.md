@@ -5,5 +5,5 @@ Other ideas for titles:
 
 * _Reproducibility in ecological and environmental modelling: whether and why scientific workflows, and where next?_
 * _Software practices that promote interoperability {and reproducibility} for ecological forecasting_
-* Computational workflows for the era of ecological inference
+* _Advances in software to accelerate the improvement of global models of ecological and environmental systems 
 <!--- a mouthfull-->
