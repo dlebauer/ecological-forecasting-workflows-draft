@@ -1,1 +1,1 @@
-Software practices that promote interoperability and reproducibility for ecological forecasting
+Software practices .... for ecological forecasting
