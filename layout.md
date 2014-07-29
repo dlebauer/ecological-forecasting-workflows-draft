@@ -1,5 +1,5 @@
 abstract.md
-Proposed list of NEW recommendations.md
+Proposed paper structure.md
 Background.md
 Introduction.md
 Interoperability Modularity.md
