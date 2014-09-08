@@ -1,7 +1,6 @@
 authors.md
 Proposed paper structure.md
 abstract.md
-Background.md
 Introduction.md
 Interoperability Modularity.md
 Section On Pros and Cons.md
