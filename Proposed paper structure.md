@@ -47,11 +47,15 @@ Conceptual overview of the ecological forecasting pipeline, highlighting current
  * e.g. in the cloud as a service or compiled as an executable
  * e.g. a combination of these - yes, but realistic?
 * Propose a code module interoperability convention.
+* Example application: propose use of common photosynthesis libraries (Farqhar / Ball-Berry and alternatives + temperature scaling routines) that can be simultaneously used across scales (this is already done, but everyone implements them separately). This could facilitate more collaborative efforts, e.g. because user's of different models could contribute to the same library (e.g. adding additional functionality).
 
 ## Modelling Software
 
-* The almost ubiquitous use of R and whether better to keep with it and make it better or highly recommend against it.
+
 * Perhaps some sort of overview of the key ads and disads of common current software used in ecol forecasting pipeline, e.g. a top 10 software (R, MATLAB, FORTRAN, Excel, Kepler, Mathematica...)
+ * (Aaron Ellison has done a search of software cited in ESA Journals, could this be extended to include compiled languages?) 
+ * The almost ubiquitous use of R and whether better to keep with it and make it better or highly recommend against it.
+ * When are compiled languages used (and why?)
 * Distil what we like of these into to what we would like and not like in future
 
 ## Ontologies and Semantics
@@ -72,6 +76,9 @@ Conceptual overview of the ecological forecasting pipeline, highlighting current
 * Are we saying any more than wanting to work with the cloud as if it's a permanently accessible alternative computer?
 * Identify some key advances in cloud that would really help
  * The ability to archive VMs of exactly your computer's state when produced results
+  * (Ilkay - SDSC has a new machine specifically for VM's?)
+  * PEcAn distributed as VM's
+  * iPlant now has a VM service
  * The production of data and code in the cloud
  * Remote access of data via cloud
  * Pushing processing to the cloud.
