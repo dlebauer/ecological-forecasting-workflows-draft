@@ -1,8 +1,17 @@
 ## Examples
 
-TODO: Write Examples
+### Workflow Software
 
-* Data Conventions
+from simple (R) to complex (ARIES, \cite{Villa_2014}) 
+
+* R ... start here because it has broad familiarity
+ * Automated provenance tracking w/in R (e.g. analytic web)
+    * R as a workflow itself - this is essentially folks using knitr with markdown or latex - which has very little structure other than separating text from code blocks
+    * Kepler modules as frontend to R code
+* Summary of workflow software from meeting ... what would a 'feature' matrix look like?
+
+
+### Data Conventions
  * MsTMIP -> widely used format by terrestrial ecosystem modelers
  * DataOne: EML describes data as it is, rather than requiring a standard example
  * NEON: has opportunity to provide data "templates" for common types of data collected by ecologists 
@@ -44,3 +53,11 @@ Model intercomparisons are one of the key areas of future application
 * A better approach
  * CCF1
  * SUMO \cite{van2011multi}
+ * 
+
+### High Performance Computing, Big Data, 
+   * Parallelization of code; access to different scheduler engines; evolving landscape
+   * Workflow branches based on needs of node (e.g. I/O, flops, ram)
+     * helps w/ scalability. 
+   * Uncertainty, multi-scale coupling
+     * how to couple independent codes; model-to-model coupling; transformation
