@@ -1,4 +1,5 @@
 abstract.md
+authors.md
 Proposed paper structure.md
 Background.md
 Introduction.md
