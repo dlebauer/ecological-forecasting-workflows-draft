@@ -1,3 +1,4 @@
+# Abstract
 
 A widespread objective is to understand what processes should be represented in global models of ecological and environmental systems. For such systems different research groups produce their own complex models to simulate the same system (e.g. the terrestrial carbon cycle). When the predictions of different models are compared there are at least some important aspects in which they differ. However understanding why those differences occur is alway difficult because of the complexity of the models being compared makes analysis intractable. Standard ways to specify, simulate and analyse such models are adopted to help improve this understanding but they are often cumbersome to implement and can still fall short of clearly indicating reasons for differences. Here we highlight advances in software and software use practices that would accelerate improvements in the development of global models of ecological and environmental systems.
 
