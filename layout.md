@@ -8,6 +8,7 @@ figures/ontology_trends/ontology_trends.png
 examples.md
 Discussion.md
 Discussion1.md
+Participants.html
 notes.md
 Best Practices.md
 additional references.md
