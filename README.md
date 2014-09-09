@@ -5,10 +5,10 @@ Draft of collaborative paper on issues and opportunities in software for ecologi
 
 Target Journal: Methods in Ecology and Environment
 
-The next steps are to 
+For an overview of next steps, please consult the [list of  Milestone] (https://github.com/dlebauer/ecological-forecasting-workflows-draft/milestones)
 
-1. review notes (on [Authorea version](https://authorea.com/users/5574/articles/6752/_show_article)
-2. provide feedback on outline (gh-5)
-3. Identify which sections (if any) you are interested in contributing to / volunteer for writing and state level of interest in contributing (this can be done by emailing David or creating an issue)
-4.  (Matt S. and David) pull together comments and assign sections
-5.  Write the assigned sections
+Briefly:
+
+1. [review notes, initial outline, provide feedback](https://github.com/dlebauer/ecological-forecasting-workflows-draft/milestones/Review%20of%20initial%20outline,%20propose%20contributions%20to%20writing)
+2. [Pull together comments and assign sections](https://github.com/dlebauer/ecological-forecasting-workflows-draft/milestones/Pull%20together%20comments%20and%20assign%20sections)
+3. [Write first draft](https://github.com/dlebauer/ecological-forecasting-workflows-draft/milestones/first%20draft%20of%20paper)
