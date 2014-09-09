@@ -34,3 +34,21 @@ Proposal of what to work on
 ### Where will be be in 5-10 years
 
 and what can we be doing now to get there
+
+Formal computational workflows rarely prominently feature in scientific research outputs, even if they were part of the research methodology. 
+Most benefits from adopting computational workflow software are obvious, such as clarity, automation and accessibility. 
+Many of the costs are also well known, such as inflexibility and efficiency. 
+However, a number of recent studies in computational environmental sciences have developed their own workflow solutions, sharing many features. 
+Here we analyse why this has happened and show that it highlights a key current lack of workflow capabilities to suit the new age of computational inference based studies. 
+Building on this, we identify features that the next generation of workflow software must possess in order to meet the demands of the inference age. 
+These are:
+1. the separation of model structures, parameters and driver datasets 
+2. support for multiple modes of abstraction within the same model structure 
+3. the ability to overlay a traceability framework over model structures and monitor model behaviour on the basis of such a framework  
+4. support for a variety of inference libraries, 
+5. the adoption of a provenance tracking rather than workflow paradigm 
+6. the ability to structure computational workflows hierarchically 
+7. distributed version control for models and data 
+8. distributed and cloud based data access and retrieval
+9. remote computation and 
+10. a richer variety of data and model component interfaces.
