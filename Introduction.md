@@ -40,8 +40,8 @@ Most benefits from adopting computational workflow software are obvious, such as
 Many of the costs are also well known, such as inflexibility and efficiency. 
 However, a number of recent studies in computational environmental sciences have developed their own workflow solutions, sharing many features. 
 Here we analyse why this has happened and show that it highlights a key current lack of workflow capabilities to suit the new age of computational inference based studies. 
-Building on this, we identify features that the next generation of workflow software must possess in order to meet the demands of the inference age. 
-These are:
+Building on this, we identify the following features that the next generation of workflow software must possess in order to meet the demands of the inference age. 
+
 1. the separation of model structures, parameters and driver datasets 
 2. support for multiple modes of abstraction within the same model structure 
 3. the ability to overlay a traceability framework over model structures and monitor model behaviour on the basis of such a framework  
