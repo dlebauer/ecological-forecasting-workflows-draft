@@ -1,19 +1,24 @@
-## Workshop Attendees
 
 * feel free to add to this list. Should there be any additional columns / feature matrix?
  * Lead / contact infor
  * Application Domain
  * OS support
- * Scope of workflow (this should probably be defined)
+ * Scope of workflow (this should probably be defined): Which categories are relevant? Data Management, Data Processing, Simulation models, Visualization
+
+# Software to support Scientific Workflows
+
+## Conference Attendees
 
 | **Software**| **Participant**| **References**| **Description**|
 |:----|:----|:----|:----|
-| ARIES | Ferdinando Villa | | A modeling platform.|
-| EcoPAD | Yiqi Luo | | An ecological platform for data assimilation and forecasting in ecology.|
+| [Analytic Web](https://www.mtholyoke.edu/~blerner/DataProvenance/) | Aaron Ellison | | | 
+| [ARIES](http://www.ariesonline.org/) | Ferdinando Villa | | A modeling platform.|
+| [EcoPAD](http://ecolab.ou.edu/?ecopad) | Yiqi Luo | | An ecological platform for data assimilation and forecasting in ecology.|
 | [EcoPath and EcoSim](http://www.ecopath.org/) | Jeroen Steenbeek |  | Ecological/ecosystem modeling software suite.|
 | [Kepler](https://kepler-project.org/) | Matt Jones, Ilkay Altintas |  | Dedicated to furthering and supporting the capabilities, use, and awareness of the free and open source, scientific workflow application, Kepler.  Kepler is designed to help scien­tists, analysts, and computer programmers create, execute, and share models and analyses across a broad range of scientific and engineering disciplines |
-| Microsoft Research Computational Science | Matthew Smith | | Includes:1) Fetchclimate for environmental data access from the cloud via code and browser, 2) Filzbach for model parameter inference, 3) Scientific Dataset tools for facilitating data access, visualization, transfer, and creation 4) Swavesey for creating and hosting cloud based databases.|
+| [Microsoft Computational Science Tools](http://research.microsoft.com/en-us/um/cambridge/groups/science/tools/) | Matthew Smith | | Includes:1) Fetchclimate for environmental data access from the cloud via code and browser, 2) Filzbach for model parameter inference, 3) Scientific Dataset tools for facilitating data access, visualization, transfer, and creation 4) Swavesey for creating and hosting cloud based databases.|
 | [PEcAn](https://www.pecanproject.org) | David LeBauer, Mike Dietze |  | Two bioinformatics tools: 1) a scientific workflow and 2) a Bayesian data assimilation system. |
+| [rOpenSci](http://ropensci.org/) | 
 | [Swift](http://swift-lang.org/), [FACE-IT / Galaxy-ES](http://www.faceit-portal.org/) | David Kelly | ||
 
 ## Other Workflow Software Projects
