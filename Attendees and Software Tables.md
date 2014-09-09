@@ -9,7 +9,7 @@
 | **Software**| **Participant**| **References**| **Description**|
 |:----|:----|:----|:----|
 | ARIES | Ferdinando Villa | | A modeling platform.|
-| EcoPAD | Yiqi Luo | An ecological platform for data assimilation and forecasting in ecology.|
+| EcoPAD | Yiqi Luo | | An ecological platform for data assimilation and forecasting in ecology.|
 | [EcoPath and EcoSim](http://www.ecopath.org/) | Jeroen Steenbeek |  | Ecological/ecosystem modeling software suite.|
 | [Kepler](https://kepler-project.org/) | Matt Jones, Ilkay Altintas |  | Dedicated to furthering and supporting the capabilities, use, and awareness of the free and open source, scientific workflow application, Kepler.  Kepler is designed to help scien­tists, analysts, and computer programmers create, execute, and share models and analyses across a broad range of scientific and engineering disciplines |
 | Microsoft Research Computational Science | Matthew Smith | | Includes:1) Fetchclimate for environmental data access from the cloud via code and browser, 2) Filzbach for model parameter inference, 3) Scientific Dataset tools for facilitating data access, visualization, transfer, and creation 4) Swavesey for creating and hosting cloud based databases.|
