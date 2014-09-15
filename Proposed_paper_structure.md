@@ -43,6 +43,7 @@ Conceptual overview of the ecological forecasting pipeline, highlighting current
 * Data as outputs from models and analyses
  * Metadata etc..
  * What to do about probabilistic data
+ * Also how to visualize and communicate uncertainty
 * Propose an example data conventions to enable more widespread adoption and interoperability
 	
 ## Modularity and Interoperability
@@ -55,12 +56,14 @@ Conceptual overview of the ecological forecasting pipeline, highlighting current
 * Propose a code module interoperability convention.
 * Example application: propose use of common photosynthesis libraries (Farqhar / Ball-Berry and alternatives + temperature scaling routines) that can be simultaneously used across scales (this is already done, but everyone implements them separately). This could facilitate more collaborative efforts, e.g. because user's of different models could contribute to the same library (e.g. adding additional functionality).
 
-## Modelling Software
+## Modeling Software
 
 
 * Perhaps some sort of overview of the key ads and disads of common current software used in ecol forecasting pipeline, e.g. a top 10 software (R, MATLAB, FORTRAN, Excel, Kepler, Mathematica...)
  * (Aaron Ellison has done a search of software cited in ESA Journals, could this be extended to include compiled languages?) 
+	-- Brian Inouye (FSU) has a larger (longer) more comprehensive dataset on software used in ESA journals, and is interested in joining this effort (AME talked with him at ESA)
  * The almost ubiquitous use of R and whether better to keep with it and make it better or highly recommend against it.
+ * 	--R is hardly "ubiquitous", although it is used about 30% of the time in ecological publications
  * When are compiled languages used (and why?)
 * Distil what we like of these into to what we would like and not like in future
 
