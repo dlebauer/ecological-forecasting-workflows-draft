@@ -25,15 +25,17 @@ Email David to ask to be added as an author, or [fork the document](https://auth
 
 ### Using GitHub
 
-The Github and Authorea repositories are kept in sync using Git.
+The Github and Authorea repositories are kept in sync using Git. GitHub is an open, public interface that makes using Git very easy. You can contribute a lot without ever using the command line. There is lots of documentation, and GitHub's User interface is fairly intuitive ... though there is some learning curve to the concepts of forking, cloning, and pulling. GitHub's documentation ([click 'help' at top of page](https://help.github.com/) is great, in particular see  [collaborating](https://help.github.com/categories/63/articles) and [using pull requests](https://help.github.com/articles/using-pull-requests).  Also see the [Using GitHub and Git](https://github.com/PecanProject/pecan/wiki/Using-Git) primer on the PEcAn wiki page.
+
 
 #### General steps are to:
 
 1. create a github account (https://github.com/join)
-2. fork the manuscript repository https://github.com/dlebauer/ecological-forecasting-workflows-draft/fork
-3. clone (as above) but from your fork
+2. send username to David
+3. edit anything you want by clicking the edit / pencil icon
+4. fork and clone the repository
+5. manuscript repository https://github.com/dlebauer/ecological-forecasting-workflows-draft/fork
 
-See also the [Using GitHub and Git](https://github.com/PecanProject/pecan/wiki/Using-Git) primer on the PEcAn wiki page 
 
 #### Within Github
 
