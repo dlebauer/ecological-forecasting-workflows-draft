@@ -4,7 +4,7 @@
 
 _These are notes from a group brainstorm / wishlist about what we wish everyone else did. **should narrow focus on a meaningful contribution.** On the one hand, perhaps a valuable consensus and good information. On the other hand, a big scope, could be a separate paper, perhaps an appendix or perspectives piece. 'thoughts from the meeting' _
 
-Also see [The Tao of Open Science for Ecology](https://docs.google.com/document/d/12uVkHL9XWJmEsGBrDZbFBBZGBsY7E4A4RsZips9dUqU/edit#)
+Although the scope is different, there is some overlap with another manuscript that is almost ready for submission [The Tao of Open Science for Ecology](https://docs.google.com/document/d/12uVkHL9XWJmEsGBrDZbFBBZGBsY7E4A4RsZips9dUqU/edit#)
 
 
  * Intro general background of sw best practices (e.g., White paper), plus acknowledge these are well-established software engineering practices
