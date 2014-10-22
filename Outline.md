@@ -29,12 +29,10 @@ In this paper we will identify promising future software solutions accelerating 
  * CITE MIP's here and NEON
 * In relation to this there are many efforts to add clarity to the process of ecological and environmental analytics in general, from improved methods to access, and specify access to heterogeneous datasets, to being clear about model specifications and assumptions, to describing analytical workflows and to labelling outputs.
 * However, there is still progress to be made
- * Elaborate on recent best practices papers.
+ * Elaborate on recent best practices papers (Wilson 2013, [Hampton et al 2014](https://peerj.com/preprints/549v1/))
 * Here we take a detailed look at the research and development pipeline involved in developing ecological and environmental system models for ecological forecasting to identify key areas that we believe if improved would lead to major improvements in the production of useful ecological forecasts.
 * Ultimately we want to reduce redundancies, leverage community participation, produce the next generation of modular and extensible software that will advance scientific discovery
 
-Conceptual overview of the ecological forecasting pipeline, highlighting current limitations
-	This will briefly explain why we adopted the structure identified here.
 
 ## Data
 
@@ -43,6 +41,7 @@ Conceptual overview of the ecological forecasting pipeline, highlighting current
 * Data as outputs from models and analyses
  * Metadata etc..
  * What to do about probabilistic data
+ * Also how to visualize and communicate uncertainty
 * Propose an example data conventions to enable more widespread adoption and interoperability
 	
 ## Modularity and Interoperability
@@ -55,12 +54,14 @@ Conceptual overview of the ecological forecasting pipeline, highlighting current
 * Propose a code module interoperability convention.
 * Example application: propose use of common photosynthesis libraries (Farqhar / Ball-Berry and alternatives + temperature scaling routines) that can be simultaneously used across scales (this is already done, but everyone implements them separately). This could facilitate more collaborative efforts, e.g. because user's of different models could contribute to the same library (e.g. adding additional functionality).
 
-## Modelling Software
+## Modeling Software
 
 
 * Perhaps some sort of overview of the key ads and disads of common current software used in ecol forecasting pipeline, e.g. a top 10 software (R, MATLAB, FORTRAN, Excel, Kepler, Mathematica...)
  * (Aaron Ellison has done a search of software cited in ESA Journals, could this be extended to include compiled languages?) 
+	-- Brian Inouye (FSU) has a larger (longer) more comprehensive dataset on software used in ESA journals, and is interested in joining this effort (AME talked with him at ESA)
  * The almost ubiquitous use of R and whether better to keep with it and make it better or highly recommend against it.
+ * 	--R is hardly "ubiquitous", although it is used about 30% of the time in ecological publications
  * When are compiled languages used (and why?)
 * Distil what we like of these into to what we would like and not like in future
 
@@ -88,3 +89,16 @@ Conceptual overview of the ecological forecasting pipeline, highlighting current
  * The production of data and code in the cloud
  * Remote access of data via cloud
  * Pushing processing to the cloud.
+
+## Conclusions
+
+TO BE DETERMINED
+
+### Open Questions
+
+ * Why do groups decide to create new workflow systems rather than adapting an existing system?
+   * Are ecological demands on wf systems special?
+   * Can we describe model and data  semantically to provide plug-n-play within wf systems?  
+   * What are the key barriers to plug-n-play ecological forecasting?
+   * Lack of well-specified interfaces to model components; 
+   * Standard grammars for defining data-data and data-model and model-model interfaces
