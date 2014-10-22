@@ -72,9 +72,22 @@ In this paper we will identify promising future software solutions accelerating 
 ## Workflows and Provenance 
 
 * Focus on what new things we want and need from a WF or Prov.
-* Briefly summarise what's great and what's not about WF
+* Briefly summarise what's great and what's not about WF;  Critiques of particular workflows? What works what doesn't?
+ * Lack of well-specified interfaces to model components; 
+ * technical barriers / learning curve
+  * User interface GUI vs. programmatic. Level of Bugginess
+ * project dependence on a particular software; 
+ * difficulty selecting modular components from different systems, or flexibility to easily migrate
+   * (for example, to chain workflows across domains, e.g. climate <--> ecology <--> economic model two-way coupling
+* Why do groups decide to create new workflow systems rather than adapting an existing system?
+  * Are ecological demands on wf systems special?
 * The development of prov tracking
 * Propose a list of WF&Prov features that would really accelerate ecological forecasting
+ * Plug-and-play
+  * What are the key barriers to plug-n-play ecological forecasting?
+  * Can we describe model and data  semantically to provide plug-n-play within wf systems?  
+ * Straightfoward User interface 
+ * Standard grammars for defining data-data and data-model and model-model interfaces
 
 ## Computation and Cloud
 
@@ -93,11 +106,3 @@ In this paper we will identify promising future software solutions accelerating 
 
 TO BE DETERMINED
 
-### Open Questions
-
- * Why do groups decide to create new workflow systems rather than adapting an existing system?
-   * Are ecological demands on wf systems special?
-   * Can we describe model and data  semantically to provide plug-n-play within wf systems?  
-   * What are the key barriers to plug-n-play ecological forecasting?
-   * Lack of well-specified interfaces to model components; 
-   * Standard grammars for defining data-data and data-model and model-model interfaces
