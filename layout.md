@@ -9,5 +9,4 @@ examples.md
 Discussion1.md
 Attendees and Software Tables.md
 notes.md
-Best Practices.md
 additional references.md
