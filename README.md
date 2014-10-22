@@ -7,9 +7,13 @@ Target Journal: Methods in Ecology and Environment
 
 For an overview of next steps, please consult the [list of  Milestones] (https://github.com/dlebauer/ecological-forecasting-workflows-draft/milestones). Briefly, these are:
 
-1. [review notes, initial outline, provide feedback](https://github.com/dlebauer/ecological-forecasting-workflows-draft/milestones/Review%20of%20initial%20outline,%20propose%20contributions%20to%20writing)
-2. [Pull together comments and assign sections sections](https://github.com/dlebauer/ecological-forecasting-workflows-draft/milestones/Pull%20together%20comments%20and%20assign%20sections)
-3. [Write first draft](https://github.com/dlebauer/ecological-forecasting-workflows-draft/milestones/first%20draft%20of%20paper)
+
+1. [Pull together comments and assign sections sections](https://github.com/dlebauer/ecological-forecasting-workflows-draft/milestones/Pull%20together%20comments%20and%20assign%20sections)
+ * Review [outline](https://github.com/dlebauer/ecological-forecasting-workflows-draft/blob/master/Outline.md). This is the proposed document structure.
+ * Review [text that has already been written](https://authorea.com/users/5574/articles/6752/#article-paragraph-abstract__dot__md)
+ * Identify which sections (if any) you are interested in contributing
+ * Volunteer for writing and state level of interest in contributing
+2. [Write first draft](https://github.com/dlebauer/ecological-forecasting-workflows-draft/milestones/first%20draft%20of%20paper)
 
 To be added to the list of collaborators either submit a pull request, create / reply to an issue, or contact [David LeBauer](https://github.com/dlebauer). 
 
