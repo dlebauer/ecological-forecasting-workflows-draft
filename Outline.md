@@ -1,17 +1,15 @@
 # Outline / Proposed Paper Structure
 
 ## Title
-Advancing Software for Ecological Forecasting
 
- * Other ideas for titles:
-  * _Reproducibility in ecological and environmental modelling: whether and why scientific workflows, and where next?_
-  * _Software practices that promote interoperability {and reproducibility} for ecological forecasting_
-  * _Advances in software to accelerate the improvement of global models of ecological and environmental systems <!--- a mouthfull-->
+Some options
+* **Advancing Software for Ecological Forecasting**
+* **Reproducibility in ecological and environmental modelling: whether and why scientific workflows, and where next?**
+* **Advances in software to accelerate ecological and environmental inference**
 
-## Definition
+## Definition & Aim
 
-Ecological forecasting is predicting the future properties of ecological systems                                                                                                                                            
-## Aim
+Ecological forecasting is predicting the future properties of ecological systems    
 
 In this paper we will identify promising future software solutions accelerating the rate of production of useful ecological forecasts.
 
