@@ -1,5 +1,5 @@
 authors.md
-Proposed paper structure.md
+Outline.md
 abstract.md
 Introduction.md
 Interoperability Modularity.md
