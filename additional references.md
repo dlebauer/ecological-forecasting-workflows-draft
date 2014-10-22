@@ -1,10 +1,6 @@
 ## additional references
 
-these were compiled during workshop, not currently cited, can be deleted after they are used (or rejected)
-
-References
------------------
-
+these were compiled during workshop, not yet cited
 
 \cite{Service_2011}
 Service, R.F. Coming Soon to a Lab Near You: Drag-and-Drop Virtual Worlds Science 11 February 2011:  669-671. [DOI:10.1126/science.331.6018.669] 

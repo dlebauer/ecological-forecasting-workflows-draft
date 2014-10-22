@@ -1,17 +1,16 @@
 # Outline / Proposed Paper Structure
 
 ## Title
-Advancing Software for Ecological Forecasting
 
- * Other ideas for titles:
-  * _Reproducibility in ecological and environmental modelling: whether and why scientific workflows, and where next?_
-  * _Software practices that promote interoperability {and reproducibility} for ecological forecasting_
-  * _Advances in software to accelerate the improvement of global models of ecological and environmental systems <!--- a mouthfull-->
+Some options
 
-## Definition
+* **Advancing Software for Ecological Forecasting**
+* **Reproducibility in ecological and environmental modelling: whether and why scientific workflows, and where next?**
+* **Advances in software to accelerate ecological and environmental inference**
 
-Ecological forecasting is predicting the future properties of ecological systems                                                                                                                                            
-## Aim
+## Definition & Aim
+
+Ecological forecasting is predicting the future properties of ecological systems    
 
 In this paper we will identify promising future software solutions accelerating the rate of production of useful ecological forecasts.
 
@@ -29,12 +28,10 @@ In this paper we will identify promising future software solutions accelerating 
  * CITE MIP's here and NEON
 * In relation to this there are many efforts to add clarity to the process of ecological and environmental analytics in general, from improved methods to access, and specify access to heterogeneous datasets, to being clear about model specifications and assumptions, to describing analytical workflows and to labelling outputs.
 * However, there is still progress to be made
- * Elaborate on recent best practices papers.
+ * Elaborate on recent best practices papers (Wilson 2013, [Hampton et al 2014](https://peerj.com/preprints/549v1/))
 * Here we take a detailed look at the research and development pipeline involved in developing ecological and environmental system models for ecological forecasting to identify key areas that we believe if improved would lead to major improvements in the production of useful ecological forecasts.
 * Ultimately we want to reduce redundancies, leverage community participation, produce the next generation of modular and extensible software that will advance scientific discovery
 
-Conceptual overview of the ecological forecasting pipeline, highlighting current limitations
-	This will briefly explain why we adopted the structure identified here.
 
 ## Data
 
@@ -75,9 +72,22 @@ Conceptual overview of the ecological forecasting pipeline, highlighting current
 ## Workflows and Provenance 
 
 * Focus on what new things we want and need from a WF or Prov.
-* Briefly summarise what's great and what's not about WF
+* Briefly summarise what's great and what's not about WF;  Critiques of particular workflows? What works what doesn't?
+ * Lack of well-specified interfaces to model components; 
+ * technical barriers / learning curve
+  * User interface GUI vs. programmatic. Level of Bugginess
+ * project dependence on a particular software; 
+ * difficulty selecting modular components from different systems, or flexibility to easily migrate
+   * (for example, to chain workflows across domains, e.g. climate <--> ecology <--> economic model two-way coupling
+* Why do groups decide to create new workflow systems rather than adapting an existing system?
+  * Are ecological demands on wf systems special?
 * The development of prov tracking
 * Propose a list of WF&Prov features that would really accelerate ecological forecasting
+ * Plug-and-play
+  * What are the key barriers to plug-n-play ecological forecasting?
+  * Can we describe model and data  semantically to provide plug-n-play within wf systems?  
+ * Straightfoward User interface 
+ * Standard grammars for defining data-data and data-model and model-model interfaces
 
 ## Computation and Cloud
 
@@ -91,3 +101,8 @@ Conceptual overview of the ecological forecasting pipeline, highlighting current
  * The production of data and code in the cloud
  * Remote access of data via cloud
  * Pushing processing to the cloud.
+
+## Conclusions
+
+TO BE DETERMINED
+

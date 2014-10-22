@@ -1,5 +1,5 @@
 authors.md
-Proposed paper structure.md
+Outline.md
 abstract.md
 Introduction.md
 Interoperability Modularity.md
@@ -8,5 +8,4 @@ figures/ontology_trends/ontology_trends.png
 examples.md
 Discussion1.md
 Attendees and Software Tables.md
-notes.md
 additional references.md
