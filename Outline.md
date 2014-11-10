@@ -25,16 +25,16 @@ In this paper we will identify promising future software solutions accelerating 
 * We also increasingly need to use models and data with formally quantified probabilities associated with them - this is especially in the spirit of ecological forecasting. However this increases computational complexity even more.
 * What we need is the ability to conduct clean analyses of the sources and contributions of model-data differences and model-model differences. Ultimately many of us want to build better predictive models but get slowed down after a particular degree of model complexity by intractability and non-reproducible work.
 * Improving complex models of eco-env systems can often be laborious and intractable and yet many of the problems targeted by research have a short deadline within which to provide solutions. Others are just being held back by an inability to rigorously test models.
- * CITE MIP's here and NEON
+ * CITE MIP's here and NEON 
 * In relation to this there are many efforts to add clarity to the process of ecological and environmental analytics in general, from improved methods to access, and specify access to heterogeneous datasets, to being clear about model specifications and assumptions, to describing analytical workflows and to labelling outputs.
 * However, there is still progress to be made
  * Elaborate on recent best practices papers (Wilson 2013, [Hampton et al 2014](https://peerj.com/preprints/549v1/))
 * Here we take a detailed look at the research and development pipeline involved in developing ecological and environmental system models for ecological forecasting to identify key areas that we believe if improved would lead to major improvements in the production of useful ecological forecasts.
 * Ultimately we want to reduce redundancies, leverage community participation, produce the next generation of modular and extensible software that will advance scientific discovery
 
-###  What it takes to do Ecological Forecasting Well
+##  What it takes to do Ecological Forecasting Well
 
-This section - (part of Introduction?) led by Yiqi Luo
+(part of Introduction?)
 
 \cite{Niu_2014}
 
@@ -50,6 +50,8 @@ This section - (part of Introduction?) led by Yiqi Luo
 	
 ## Modularity and Interoperability
 
+_Matt Jones (Lead), with Ferdinando Villa, Jeroen  Steenbeek
+
 * Ways to enable modularity in code components, list options and probability of success
  * e.g. well written and commented - limited
  * e.g. conforming to a DSL - restrictive
@@ -60,7 +62,6 @@ This section - (part of Introduction?) led by Yiqi Luo
 
 ## Modeling Software
 
-
 * Perhaps some sort of overview of the key ads and disads of common current software used in ecol forecasting pipeline, e.g. a top 10 software (R, MATLAB, FORTRAN, Excel, Kepler, Mathematica...)
  * (Aaron Ellison has done a search of software cited in ESA Journals, could this be extended to include compiled languages?) 
 	-- Brian Inouye (FSU) has a larger (longer) more comprehensive dataset on software used in ESA journals, and is interested in joining this effort (AME talked with him at ESA)
@@ -68,13 +69,20 @@ This section - (part of Introduction?) led by Yiqi Luo
  * 	--R is hardly "ubiquitous", although it is used about 30% of the time in ecological publications
  * When are compiled languages used (and why?)
 * Distil what we like of these into to what we would like and not like in future
+* Model Intercomparison, Benchmarking [Andy Fox]
 
-## Ontologies and Semantics
-* Can this realistically help us to connect models to models and data to models better than we do?
-* What have ontologies and sematics ever done for us?
+## Ontologies and Semantics 
+
+_Ferdinando Villa (Lead), with Matt Jones, others_
+
+* Definitions
+* (How) Can O&S help us to connect models to models and data to models better than we do?
+* What have ontologies and sematics done for us?
 * Propose a minimal list of O&S conventions?
 	
 ## Workflows and Provenance 
+
+_link to Modularity and Interoperability section?_
 
 * Focus on what new things we want and need from a WF or Prov.
 * Briefly summarise what's great and what's not about WF;  Critiques of particular workflows? What works what doesn't?
