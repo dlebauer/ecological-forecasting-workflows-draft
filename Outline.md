@@ -32,6 +32,11 @@ In this paper we will identify promising future software solutions accelerating 
 * Here we take a detailed look at the research and development pipeline involved in developing ecological and environmental system models for ecological forecasting to identify key areas that we believe if improved would lead to major improvements in the production of useful ecological forecasts.
 * Ultimately we want to reduce redundancies, leverage community participation, produce the next generation of modular and extensible software that will advance scientific discovery
 
+###  What it takes to do Ecological Forecasting Well
+
+This section - (part of Introduction?) led by Yiqi Luo
+
+\cite{Niu_2014}
 
 ## Data
 
