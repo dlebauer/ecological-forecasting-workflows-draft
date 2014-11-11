@@ -39,13 +39,6 @@ from simple (R) to complex (ARIES, \cite{Villa_2014})
  * Would it help to write out netcdf files from our NOAA R pkg wrapper to use in other software? And for spatial occurrence data from spocc/rgbif/etc?
  * Data transformations we could provide? e.g, Interpolation of climate data from NOAA
 
-### NEON 
- * community support for desired standards
-
-
-### MIPS
-
-Model intercomparisons are one of the key areas of future application
 
 ### Model Coupling
 
