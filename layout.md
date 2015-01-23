@@ -1,4 +1,3 @@
-authors.md
 Introduction.md
 Interoperability Modularity.md
 Section On Pros and Cons.md
