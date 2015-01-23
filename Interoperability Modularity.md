@@ -32,8 +32,6 @@ What is or can be done for improving reproducibility and interoperability in spe
  * MsTMIP\cite{Huntzinger_2013}, AgMIP \cite{Rosenzweig_2013}, ISI-MIP \cite{Warszawski_2014}
 \cite{Yu_2005}\cite{Yu_2005}
 
-* We are not suggesting standards. Repeat. These are not standards. This was an important point. 
-
 ### Ontologies / Semantics
 
    * Data integration and model coupling
@@ -43,6 +41,3 @@ What is or can be done for improving reproducibility and interoperability in spe
 
 Can we describe model components semantically to provide plug-n-play within wf systems?
 Berkeley et al 2005, Madin et al 2007, Madin et al, 2008
-
-Is there anything fundamentally deficient with the semantics approach? Ontologies? (reasons for [declining interest in Google Trends](http://www.google.com/trends/explore#cat=0-174-1227&q=%2Fm%2F05kvn%2C%20%2Fm%2F076h6&cmpt=q))?
-
