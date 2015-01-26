@@ -33,18 +33,9 @@ What will / do integration of heterogeneous _codes_ as well as _data_ look like?
 * What about sequential workflows (of complex simulation models) of, e.g. met dynamical downscaling -> ecosystem -> economics models? New opportunities for cross-domain optimization and propagation of uncertainty (e.g. dynamically coupled codes are easier to link as stocahstic equations).
 * Synchronized models (e.g. where models overlap in some but not all outputs, e.g. 1) SUMO \cite{van2011multi} (climate models). This can be done, an alternative to model 'coupling', e.g. with CLM, 
 
-### "Best Practices in Ecological Computing"
-
-_I think we decided to stay away from this, mostly, but it is worth bringing up in the discussion_
 
 
-We hope to build our community of Ecological Software Developers, Users, and Tinkerers
 
-* Advice to specific groups, (maybe the groups are not a good idea.)
- * To the professors, we would say ... software deserves the same respect as your lab equipment, should be tested and engineered well.
- * To grad students ... get on board. Software is a technique.
-* giving pointers to where to look (rOpenSci, SSI, everyone's projects)
-* ... next time it seems like you _must_ be reinventing the wheel ... see if you can collaborate with someone who already has. GitHub as the open range (e.g. takes no commitment to 'fork' a project, compared to emailing a professor and asking if they will share your code, or incorporate changes)
 * leaders, where to look (rOpenSci, SSI, everyone's projects), which niches each of these fill
 * 
 
